@@ -16,4 +16,5 @@ In this study, the researchers proposed the use of Mask RCNN and U-Net models fo
 <li>Precision: 0.999 vs. 0.992</li>
 <li>Recall: 0.980 vs. 0.722</li>
 </ul>
+
 The higher values for IOU score, Dice coefficient, F1 score, and pixel accuracy observed with the U-Net model highlight its effectiveness in precise segmentation for DME detection.
